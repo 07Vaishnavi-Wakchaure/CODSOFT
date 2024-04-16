@@ -8,6 +8,7 @@ Overall, a Python to-do list program allows users to easily organize their tasks
 
 
 #Task 2
+
 Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice.Perform the calculation and display the result.
 Description-
 This Python script implements a simple calculator with basic arithmetic operations (addition, subtraction, multiplication, and division). Here's a breakdown of how it works:
